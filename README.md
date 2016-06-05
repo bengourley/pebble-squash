@@ -5,7 +5,7 @@
 [![Available on the Pebble store](http://pblweb.com/badge/5754480670c28cee0e00000a/orange/small)](https://apps.getpebble.com/en_US/application/5754480670c28cee0e00000a)
 
 Keep track of the score in your squash matches with simple controls and a clean, uncluttered interface. This is the squash version of
-my [Tennis score keeper app](http://pblweb.com/badge/572a8209381261f35e00000a/orange/small)](https://apps.getpebble.com/en_US/application/572a8209381261f35e00000a).
+my [Tennis score keeper app](https://apps.getpebble.com/en_US/application/572a8209381261f35e00000a).
 
 Match formats are easily configured inside the app and it defaults to the settings you last used. If your yours isn't configurable, let me know because I want to support all commonly played formats.
 
